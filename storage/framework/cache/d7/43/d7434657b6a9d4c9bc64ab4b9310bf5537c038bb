@@ -1,0 +1,303 @@
+1618821344a:1:{s:9:"video.htm";a:9:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:10854:"title = "video"
+url = "/video"
+layout = "default"
+is_hidden = 0
+==
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Videos</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Videos</li>
+          </ol>
+        </div>
+    
+      </div>
+    </section>
+    
+            <!-- video-area-start -->
+        <!-- <section class="" style="padding-top:10em;">
+            <div class="video-area bg-img-2 ptb-100">
+              <div class="container">
+                <div class="owl-carousel owl-theme">
+                  <div class="item-video" data-merge="3"><a class="owl-video" href="https://www.youtube.com/watch?v=cKL0Sku7U2o&feature=youtu.be"></a></div>
+                  <div class="item-video" data-merge="1"><a class="owl-video" href="https://www.youtube.com/watch?v=Rl6eSMy_l4c&feature=youtu.be"></a></div>
+                  <div class="item-video" data-merge="2"><a class="owl-video" href="https://www.youtube.com/watch?v=UzA01REhdTk&feature=youtu.be"></a></div>
+                </div>
+              </div>
+            </div>
+        </section> -->
+            <!-- video-area-end -->
+    
+                <!-- video-area-start -->
+            <section class="" style="padding-top:5em;">
+            <article class="contentContainer">
+              <div class="sliderContainer no-fouc">
+              <div class="slider video-container"> 
+                
+                <!-- BEGIN VIDEO SLIDE 1  -->
+                
+                <div id="video-1">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cKL0Sku7U2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/cKL0Sku7U2o"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/cKL0Sku7U2o"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/cKL0Sku7U2o/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video is of Betty Okune a cross border trader,she narrates her life as a cross-border trader. The story has been one and produced by TradeSmart Consult Ltd.</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 1  --> 
+                
+                <!-- BEGIN VIDEO SLIDE 2  -->
+                
+                <div id="video-2">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl6eSMy_l4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/Rl6eSMy_l4c"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/Rl6eSMy_l4c"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/Rl6eSMy_l4c/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video talks about the impact ACWICT has on the women cross border traders along the Kenya-Uganda border towns of Busia and Malaba.The stories were covered and done by TradeSmart Consult Ltd</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 2  --> 
+                
+                <!-- BEGIN VIDEO SLIDE 3  -->
+                
+                <div id="video-3">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/UzA01REhdTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/UzA01REhdTk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/UzA01REhdTk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/UzA01REhdTk/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video talks about the impact ACWICT has on the women cross border traders along the Kenya-Tanzania border town of Namanga.The stries were covered and done by TradeSmart Consult Ltd</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 3  --> 
+              
+                
+                <!-- // END VIDEO CONTAINER --> 
+              </div>
+    
+              <!-- BEGIN THUMBNAIL SLIDER  
+                        Thumbnail and background-image ID should correspond to the Video ID.
+                        Using the same image as the Video placer for the background as it's already cached - i.e. 1/2 the downloads then calling a seperate thumb.
+                    -->
+              <div class="slider video-thumbnails">
+                <div id="thumb-1" style="background-image:url(//img.youtube.com/vi/cKL0Sku7U2o/hqdefault.jpg);">
+                  <h3>1</h3>
+                </div>
+                <div id="thumb-2" style="background-image:url(//img.youtube.com/vi/Rl6eSMy_l4c/hqdefault.jpg)">
+                  <h3>2</h3>
+                </div>
+                <div id="thumb-3" style="background-image:url(//img.youtube.com/vi/UzA01REhdTk/sddefault.jpg)">
+                  <h3>3</h3>
+                </div>
+                <!-- END THUMBNAIL SLIDER  --> 
+              </div>
+              </article>
+        </section>
+            <!-- video-area-end -->
+    
+    </main><!-- End #main -->";s:5:"mtime";i:1618161100;s:6:"markup";s:10780:"<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Videos</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Videos</li>
+          </ol>
+        </div>
+    
+      </div>
+    </section>
+    
+            <!-- video-area-start -->
+        <!-- <section class="" style="padding-top:10em;">
+            <div class="video-area bg-img-2 ptb-100">
+              <div class="container">
+                <div class="owl-carousel owl-theme">
+                  <div class="item-video" data-merge="3"><a class="owl-video" href="https://www.youtube.com/watch?v=cKL0Sku7U2o&feature=youtu.be"></a></div>
+                  <div class="item-video" data-merge="1"><a class="owl-video" href="https://www.youtube.com/watch?v=Rl6eSMy_l4c&feature=youtu.be"></a></div>
+                  <div class="item-video" data-merge="2"><a class="owl-video" href="https://www.youtube.com/watch?v=UzA01REhdTk&feature=youtu.be"></a></div>
+                </div>
+              </div>
+            </div>
+        </section> -->
+            <!-- video-area-end -->
+    
+                <!-- video-area-start -->
+            <section class="" style="padding-top:5em;">
+            <article class="contentContainer">
+              <div class="sliderContainer no-fouc">
+              <div class="slider video-container"> 
+                
+                <!-- BEGIN VIDEO SLIDE 1  -->
+                
+                <div id="video-1">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cKL0Sku7U2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/cKL0Sku7U2o"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/cKL0Sku7U2o"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/cKL0Sku7U2o/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video is of Betty Okune a cross border trader,she narrates her life as a cross-border trader. The story has been one and produced by TradeSmart Consult Ltd.</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 1  --> 
+                
+                <!-- BEGIN VIDEO SLIDE 2  -->
+                
+                <div id="video-2">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Rl6eSMy_l4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/Rl6eSMy_l4c"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/Rl6eSMy_l4c"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/Rl6eSMy_l4c/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video talks about the impact ACWICT has on the women cross border traders along the Kenya-Uganda border towns of Busia and Malaba.The stories were covered and done by TradeSmart Consult Ltd</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 2  --> 
+                
+                <!-- BEGIN VIDEO SLIDE 3  -->
+                
+                <div id="video-3">
+                  <div class="videoWrapper videoWrapper169 js-videoWrapper"> 
+                    <!-- YouTube iframe. -->
+    
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/UzA01REhdTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/UzA01REhdTk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- the poster frame - in the form of a button to make it keyboard accessible --> 
+                    <!-- YouTube iframe. -->
+                    
+                    <iframe class="videoIframe js-videoIframe" src=""  frameborder="0" allowTransparency="true" allowfullscreen data-src="https://www.youtube.com/embed/UzA01REhdTk"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- Poster frame in the form of a button to make it keyboard accessible. Background is Youtube Image  -->
+                    <button class="videoPoster js-videoPoster" style="background-image:url(//img.youtube.com/vi/UzA01REhdTk/hqdefault.jpg);">
+                    <svg  class="play-vid" viewBox="0 0 100 100" >
+                      <path class="stroke-solid" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="stroke-dotted" fill="none" stroke="black"  d="M49.9,2.5C23.6,2.8,2.1,24.4,2.5,50.4C2.9,76.5,24.7,98,50.3,97.5c26.4-0.6,47.4-21.8,47.2-47.7
+                      C97.3,23.7,75.7,2.3,49.9,2.5"/>
+                      <path class="vid-icon" fill="black" d="M38,69c-1,0.5-1.8,0-1.8-1.1V32.1c0-1.1,0.8-1.6,1.8-1.1l34,18c1,0.5,1,1.4,0,1.9L38,69z"/>
+                    </svg>
+                    </button>
+                  </div>
+                  <div class="slideCaption">The video talks about the impact ACWICT has on the women cross border traders along the Kenya-Tanzania border town of Namanga.The stries were covered and done by TradeSmart Consult Ltd</div>
+                </div>
+                
+                <!-- // END VIDEO SLIDE 3  --> 
+              
+                
+                <!-- // END VIDEO CONTAINER --> 
+              </div>
+    
+              <!-- BEGIN THUMBNAIL SLIDER  
+                        Thumbnail and background-image ID should correspond to the Video ID.
+                        Using the same image as the Video placer for the background as it's already cached - i.e. 1/2 the downloads then calling a seperate thumb.
+                    -->
+              <div class="slider video-thumbnails">
+                <div id="thumb-1" style="background-image:url(//img.youtube.com/vi/cKL0Sku7U2o/hqdefault.jpg);">
+                  <h3>1</h3>
+                </div>
+                <div id="thumb-2" style="background-image:url(//img.youtube.com/vi/Rl6eSMy_l4c/hqdefault.jpg)">
+                  <h3>2</h3>
+                </div>
+                <div id="thumb-3" style="background-image:url(//img.youtube.com/vi/UzA01REhdTk/sddefault.jpg)">
+                  <h3>3</h3>
+                </div>
+                <!-- END THUMBNAIL SLIDER  --> 
+              </div>
+              </article>
+        </section>
+            <!-- video-area-end -->
+    
+    </main><!-- End #main -->";s:4:"code";N;s:5:"title";s:5:"video";s:3:"url";s:6:"/video";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

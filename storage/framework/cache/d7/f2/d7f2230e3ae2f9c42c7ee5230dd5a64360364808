@@ -1,0 +1,159 @@
+1618821344a:1:{s:12:"research.htm";a:9:{s:8:"fileName";s:12:"research.htm";s:7:"content";s:3782:"title = "Research"
+url = "/research"
+layout = "default"
+is_hidden = 0
+==
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Research and Innovation</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Services</li>
+          </ol>
+        </div>
+    
+      </div>
+      </section>
+    
+            <!-- ======= Frequently Asked Questions Section ======= -->
+            <section id="faq" class="faq">
+          <div class="container">
+    
+          <div class="">
+                  <p class="lead">As part of TradeSmart Continuous Improvement plan, we have invested in research and innovation to ensure our interventions are quality and evidence based. To achieve this, we have identified a number of initiatives to drive this agenda.</p>
+    
+                  <!-- <p class="lead">We help our clients with:</p> -->
+    
+                </div>
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Export Academy</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                We are currently carrying out a pilot research and innovation model academy providing training and trade mentorship to traders in the export sector.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+            
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>One stop Centre for trade innovation</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd provides and invents digital platforms that give knowledge, and train women and youth led SMEs on how they can incorporate technology in their business to overcome expansion barriers, create new trade opportunities and reduce trade costs.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Trade Processing Engineering</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd helps you simplify trade processes through automation and offering trade digitization solutions.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+          <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Baseline assessment & Impact assessment</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd undertakes feasibility studies and impact assessments of different projects before they are implemented and launched with the overall view of coming up with the best practices and recommendations relevant to today’s ever-changing world.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+          </div>
+          
+        </section><!-- End Frequently Asked Questions Section -->
+    
+    </main><!-- End #main -->";s:5:"mtime";i:1618163213;s:6:"markup";s:3702:"<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Research and Innovation</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Services</li>
+          </ol>
+        </div>
+    
+      </div>
+      </section>
+    
+            <!-- ======= Frequently Asked Questions Section ======= -->
+            <section id="faq" class="faq">
+          <div class="container">
+    
+          <div class="">
+                  <p class="lead">As part of TradeSmart Continuous Improvement plan, we have invested in research and innovation to ensure our interventions are quality and evidence based. To achieve this, we have identified a number of initiatives to drive this agenda.</p>
+    
+                  <!-- <p class="lead">We help our clients with:</p> -->
+    
+                </div>
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Export Academy</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                We are currently carrying out a pilot research and innovation model academy providing training and trade mentorship to traders in the export sector.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+            
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>One stop Centre for trade innovation</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd provides and invents digital platforms that give knowledge, and train women and youth led SMEs on how they can incorporate technology in their business to overcome expansion barriers, create new trade opportunities and reduce trade costs.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Trade Processing Engineering</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd helps you simplify trade processes through automation and offering trade digitization solutions.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+          <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Baseline assessment & Impact assessment</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd undertakes feasibility studies and impact assessments of different projects before they are implemented and launched with the overall view of coming up with the best practices and recommendations relevant to today’s ever-changing world.            </p>
+              </div>
+            </div><!-- End F.A.Q Item-->
+    
+          </div>
+          
+        </section><!-- End Frequently Asked Questions Section -->
+    
+    </main><!-- End #main -->";s:4:"code";N;s:5:"title";s:8:"Research";s:3:"url";s:9:"/research";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

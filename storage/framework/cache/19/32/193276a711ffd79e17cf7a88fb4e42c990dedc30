@@ -1,0 +1,294 @@
+1618821343a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:8419:"title = "Demonstration"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<main id="main">
+
+      <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url({{ 'assets/site/img/gallery/img2.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>TradeSmart Consult</span></h2>
+              <!-- <p class="animate__animated animate__fadeInUp">TradeSmart Consult Ltd is a well-established training and capacity building organization based in Nairobi, Kenya.</p> -->
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url({{ 'assets/site/img/trade/img12_edited.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Our<span> Vision<span></h2>
+              <p class="animate__animated animate__fadeInUp">Enhancing African Trade through effective Communications</p>
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url({{ 'assets/site/img/trade/img9_edited.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Our<span> Mission<span></h2>
+              <p class="animate__animated animate__fadeInUp">To provide expert know how on trade matters in Africa in order to enhance intra-African trade</p>
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <h2>TradeSmart Consult ltd</h2>
+            <h4>TradeSmart Consult Limited is a private Limited Company registered under Kenya’s Company Act 2015. We are a regional digital trade solutions hub situated at 330 drive Diani drive off Ole-Dume road, Kilimani; Nairobi Kenya. 
+            TradeSmart Consult Ltd works to address trade barriers faced by women and youth led SME’s in accessing and utilizing trade information in Kenya and the greater Sub-Saharan Africa for sustainable development.</h4>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>TSCL has a wealth of experience in bridging the trade knowledge gap amongst women and youth. To this end TradeSmart has implemented a number of initiatives that have contributed immensely in reducing the trade knowledge gap among youth and women which include: 
+            Championing for the provision of relevant and inclusive trade content like digital solutions for trade including documentation of trade success stories especially on women and youth led SMEs, CBTAs, localizing and packaging complex trade information into simpler, accessible/utilizable content, organizing workshops geared towards inculcating Information Seeking Behavior (ISB) among women and youth especially those in marginalized areas. </p>
+            <!-- <ul>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
+              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
+            </ul> -->
+            <p class="font-italic">The firm has carried numerous baseline studies and surveys within the region for both public and private institutions and a wide range of management training and capacity building programs that taps into emerging issues and trends relevant to both public and private organizations.
+            TSCL has a team of highly qualified and dedicated professionals with over 25years cumulative experience with a rich diverse background in research
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>What we do</h2>
+          <!-- <p>What we do</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="icon-box">
+              <i class="icofont-share"></i>
+              <h4><a href="#">Trade Hub</a></h4>
+              <p>We offer range of services in the trade industry i.e., digitalization of trade, provision of trade information, imports and exports, cross-border trade, international trade.</p>
+            </div>
+          </div>
+          <!-- <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-eco-energy"></i>
+              <h4><a href="#">Energy and Environment</a></h4>
+              <p>Specilize in the energy sector for both renewable and non-renewable energy sources with expertise in commercial, engineering and financial disciplines.</p>
+            </div>
+          </div> -->
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-eco-environmen"></i>
+              <h4><a href="#">Policy Advocacy and Networking</a></h4>
+              <p>TradeSmart Consult Ltd is at the forefront championing for inclusive policies, strategic partnership and leveraging on existing networks to amplify voice to influence youth and women enterprise.</p>
+            </div>
+          </div>
+          <!-- <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-ui-social-link"></i>
+              <h4><a href="#">Strategic Management</a></h4>
+              <p>We offer the best formulation and implementation of the major goals and initiatives taken by organizations’ top managers on behalf of owners</p>
+            </div>
+          </div> -->
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-presentation"></i>
+              <h4><a href="#">Research and Innovation</a></h4>
+              <p>With our well-established network of experts, we undertake research and reporting on trade investment and integration matters, employee analysis, baseline surveys and studies.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-people"></i>
+              <h4><a href="#">Capacity Building and Training</a></h4>
+              <p>TradeSmart Consult Ltd provides organizational and technical capacity building training on a range of topics in different sectors to both private and public organizations.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    </main>";s:5:"mtime";i:1618161870;s:6:"markup";s:8344:"<main id="main">
+
+      <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url({{ 'assets/site/img/gallery/img2.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>TradeSmart Consult</span></h2>
+              <!-- <p class="animate__animated animate__fadeInUp">TradeSmart Consult Ltd is a well-established training and capacity building organization based in Nairobi, Kenya.</p> -->
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url({{ 'assets/site/img/trade/img12_edited.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Our<span> Vision<span></h2>
+              <p class="animate__animated animate__fadeInUp">Enhancing African Trade through effective Communications</p>
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url({{ 'assets/site/img/trade/img9_edited.jpg'|theme }})">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Our<span> Mission<span></h2>
+              <p class="animate__animated animate__fadeInUp">To provide expert know how on trade matters in Africa in order to enhance intra-African trade</p>
+              <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> -->
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <h2>TradeSmart Consult ltd</h2>
+            <h4>TradeSmart Consult Limited is a private Limited Company registered under Kenya’s Company Act 2015. We are a regional digital trade solutions hub situated at 330 drive Diani drive off Ole-Dume road, Kilimani; Nairobi Kenya. 
+            TradeSmart Consult Ltd works to address trade barriers faced by women and youth led SME’s in accessing and utilizing trade information in Kenya and the greater Sub-Saharan Africa for sustainable development.</h4>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>TSCL has a wealth of experience in bridging the trade knowledge gap amongst women and youth. To this end TradeSmart has implemented a number of initiatives that have contributed immensely in reducing the trade knowledge gap among youth and women which include: 
+            Championing for the provision of relevant and inclusive trade content like digital solutions for trade including documentation of trade success stories especially on women and youth led SMEs, CBTAs, localizing and packaging complex trade information into simpler, accessible/utilizable content, organizing workshops geared towards inculcating Information Seeking Behavior (ISB) among women and youth especially those in marginalized areas. </p>
+            <!-- <ul>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
+              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
+            </ul> -->
+            <p class="font-italic">The firm has carried numerous baseline studies and surveys within the region for both public and private institutions and a wide range of management training and capacity building programs that taps into emerging issues and trends relevant to both public and private organizations.
+            TSCL has a team of highly qualified and dedicated professionals with over 25years cumulative experience with a rich diverse background in research
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>What we do</h2>
+          <!-- <p>What we do</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="icon-box">
+              <i class="icofont-share"></i>
+              <h4><a href="#">Trade Hub</a></h4>
+              <p>We offer range of services in the trade industry i.e., digitalization of trade, provision of trade information, imports and exports, cross-border trade, international trade.</p>
+            </div>
+          </div>
+          <!-- <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-eco-energy"></i>
+              <h4><a href="#">Energy and Environment</a></h4>
+              <p>Specilize in the energy sector for both renewable and non-renewable energy sources with expertise in commercial, engineering and financial disciplines.</p>
+            </div>
+          </div> -->
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-eco-environmen"></i>
+              <h4><a href="#">Policy Advocacy and Networking</a></h4>
+              <p>TradeSmart Consult Ltd is at the forefront championing for inclusive policies, strategic partnership and leveraging on existing networks to amplify voice to influence youth and women enterprise.</p>
+            </div>
+          </div>
+          <!-- <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-ui-social-link"></i>
+              <h4><a href="#">Strategic Management</a></h4>
+              <p>We offer the best formulation and implementation of the major goals and initiatives taken by organizations’ top managers on behalf of owners</p>
+            </div>
+          </div> -->
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-presentation"></i>
+              <h4><a href="#">Research and Innovation</a></h4>
+              <p>With our well-established network of experts, we undertake research and reporting on trade investment and integration matters, employee analysis, baseline surveys and studies.</p>
+            </div>
+          </div>
+          <div class="col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="icofont-people"></i>
+              <h4><a href="#">Capacity Building and Training</a></h4>
+              <p>TradeSmart Consult Ltd provides organizational and technical capacity building training on a range of topics in different sectors to both private and public organizations.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    </main>";s:4:"code";N;s:5:"title";s:13:"Demonstration";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

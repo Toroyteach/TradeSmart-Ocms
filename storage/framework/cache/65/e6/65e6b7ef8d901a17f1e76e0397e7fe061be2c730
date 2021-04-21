@@ -1,0 +1,53 @@
+1618821343a:1:{s:17:"blog/category.htm";a:12:{s:8:"fileName";s:17:"blog/category.htm";s:7:"content";s:973:"title = "Blog Category"
+url = "/blog/category/:slug"
+layout = "default"
+description = "this is blog categories"
+is_hidden = 0
+
+[blogCategories]
+slug = "{{ :slug }}"
+displayEmpty = 1
+categoryPage = "blog/category"
+
+[blogPosts]
+pageNumber = "{{ :page }}"
+categoryFilter = ":slug"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/category"
+postPage = "blog/post"
+==
+<!-- ======= Blog Section ======= -->
+ <section id="blog" class="blog">
+    <div class="container">  
+      <div class="row">                          
+          <div class="col-lg-8  col-md-8 d-flex align-items-stretch" data-aos="fade-up">
+
+            {% component 'blogPosts' %}
+
+            </div>
+          <div class="col-lg-4  col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+
+            {% component 'blogCategories' %}
+
+            </div>
+      </div>
+    </div>
+  </section><!-- End Blog Section -->";s:5:"mtime";i:1618292212;s:6:"markup";s:534:"<!-- ======= Blog Section ======= -->
+ <section id="blog" class="blog">
+    <div class="container">  
+      <div class="row">                          
+          <div class="col-lg-8  col-md-8 d-flex align-items-stretch" data-aos="fade-up">
+
+            {% component 'blogPosts' %}
+
+            </div>
+          <div class="col-lg-4  col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+
+            {% component 'blogCategories' %}
+
+            </div>
+      </div>
+    </div>
+  </section><!-- End Blog Section -->";s:4:"code";N;s:5:"title";s:13:"Blog Category";s:3:"url";s:20:"/blog/category/:slug";s:6:"layout";s:7:"default";s:11:"description";s:23:"this is blog categories";s:9:"is_hidden";s:1:"0";s:14:"blogCategories";a:3:{s:4:"slug";s:11:"{{ :slug }}";s:12:"displayEmpty";s:1:"1";s:12:"categoryPage";s:13:"blog/category";}s:9:"blogPosts";a:7:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"categoryFilter";s:5:":slug";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:13:"blog/category";s:8:"postPage";s:9:"blog/post";}}}

@@ -1,0 +1,163 @@
+description = "Default layout"
+==
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>TradeSmart Consult</title>
+  <meta http-equiv="pragma" content="no-cache" />
+        <meta http-equiv="cache-control" content="max-age=604800" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <meta name="description" content=" Trade smart consult cross border trade east africa energy consultation afcfta">
+        <meta name="keywords" content="Trade smart consult cross border trade east africa energy consultation afcfta">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <!-- Favicons -->
+  <link href="{{ 'assets/site/img/logo/logob_edited.png'|theme }}" rel="icon">
+  <link href="{{ 'assets/site/img/logo/logob_edited.png'|theme }}" rel="apple-touch-icon">
+  <link href="{{ 'assets/site/img/logo/logob_edited.png'|theme }}" rel="shortcut icon" type="image/x-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+  <!-- Vendor CSS Files -->
+  <link href="{{ 'assets/frontend/assets/vendor/bootstrap/css/bootstrap.min.css'|theme }} " rel="stylesheet">
+  <link href="{{ 'assets/frontend/assets/vendor/icofont/icofont.min.css'|theme }}" rel="stylesheet">
+  <link href="{{ 'assets/frontend/assets/vendor/boxicons/css/boxicons.min.css'|theme }}" rel="stylesheet">
+  <link href="{{ 'assets/frontend/assets/vendor/animatecss/animate.min.css'|theme }}" rel="stylesheet">
+  <link href="{{ 'assets/frontend/assets/vendor/remixicon/remixicon.css'|theme }}" rel="stylesheet">
+  <link href="{{ 'assets/frontend/assets/vendor/venobox/venobox.css'|theme }}" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="{{ 'assets/frontend/assets/css/style.css'|theme }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ 'assets/frontend/custom.css'|theme }}">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+  <link rel="stylesheet" href="{{ 'assets/site/css/owl.carousel.css'|theme }}">
+  <link rel="stylesheet" href="{{ 'assets/site/css/owl.carousel.min.css'|theme }}">
+  <link rel="stylesheet" href="{{ 'assets/site/css/owl.theme.default.min.css'|theme }}">
+
+  <link rel="stylesheet" href="{{ 'assets/site/css/magnific-popup.css'|theme }}">
+
+  <style>
+    .section-title > h2{
+      font-size: 20px;
+    }
+
+    .fa-check{
+      text-shadow: 1px 1px 1px #ccc;
+      font-size: 30px !important;
+    }
+
+    /*sticky social icons */
+    .sticky-container{
+		/*background-color: #333;*/
+		padding: 0px;
+		margin: 0px;
+		position: fixed;
+		right: -119px;
+		top:130px;
+		width: 200px;
+
+	}
+
+  .sticky > a{
+    text-decoration: none !important;
+  }
+
+	.sticky li{
+		list-style-type: none;
+		background-color: #333;
+		color: #efefef;
+		height: 43px;
+		padding: 0px;
+		margin: 0px 0px 1px 0px;
+		-webkit-transition:all 0.25s ease-in-out;
+		-moz-transition:all 0.25s ease-in-out;
+		-o-transition:all 0.25s ease-in-out;
+		transition:all 0.25s ease-in-out;
+		cursor: pointer;
+		filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); 
+                filter: gray; 
+                -webkit-filter: grayscale(100%); 
+
+	}
+
+	.sticky li:hover{
+		margin-left: -115px;
+		/*-webkit-transform: translateX(-115px);
+		-moz-transform: translateX(-115px);
+		-o-transform: translateX(-115px);
+		-ms-transform: translateX(-115px);
+		transform:translateX(-115px);*/
+		/*background-color: #8e44ad;*/
+		filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0\'/></filter></svg>#grayscale");
+                -webkit-filter: grayscale(0%);
+	}
+
+	.sticky li img{
+		float: left;
+		margin: 5px 5px;
+		margin-right: 10px;
+
+	}
+
+	.sticky li p{
+		padding: 0px;
+		margin: 0px;
+		text-transform: uppercase;
+		line-height: 43px;
+
+	}
+    </style>
+
+</head>
+
+<body>
+
+    {% partial 'site/header' %}
+
+    {% page %}
+
+    {% partial 'site/sticky' %}
+
+    {% partial 'site/footer' %}
+
+    
+		<!-- footer end -->
+		<!-- all js here -->
+  <!-- Vendor JS Files -->
+  <!-- <script src="{{ asset('/frontend/assets/vendor/jquery/jquery.min.js') }}"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/bootstrap/js/bootstrap.bundle.min.js'|theme }}"></script>
+  <!-- <script src="{{ asset('/frontend/assets/owl/owlcarousel/owl.carousel.min.js') }}"></script> -->
+  <script src="{{ 'assets/site/js/owl.carousel.min.js'|theme }}"></script>
+  <script src="{{ 'assets/site/js/jquery.magnific-popup.min.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/jqueryeasing/jquery.easing.min.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/php-email-form/validate.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/isotope-layout/isotope.pkgd.min.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/venobox/venobox.min.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/waypoints/jquery.waypoints.min.js'|theme }}"></script>
+  <script src="{{ 'assets/frontend/assets/vendor/owlcarousel/owl.carousel.min.js'|theme }}"></script>
+
+  <script src="{{ 'assets/frontend/assets/logo.js'|theme }}"></script>
+  
+
+  <!-- Template Main JS File -->
+  <script src="{{ 'assets/frontend/assets/js/main.js'|theme }}"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+  <script src="{{ 'assets/frontend/assets/gallery.js'|theme }}"></script>
+
+
+</body>
+
+</html>

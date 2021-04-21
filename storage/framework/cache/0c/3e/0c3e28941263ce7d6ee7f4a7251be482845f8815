@@ -1,0 +1,127 @@
+1618821344a:1:{s:10:"policy.htm";a:9:{s:8:"fileName";s:10:"policy.htm";s:7:"content";s:2954:"title = "Policy"
+url = "/policy"
+layout = "default"
+is_hidden = 0
+==
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Policy, Advocacy and Networking</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Services</li>
+          </ol>
+        </div>
+    
+      </div>
+      </section>
+    
+              <!-- ======= Frequently Asked Questions Section ======= -->
+              <section id="faq" class="faq">
+          <div class="container">
+    
+           <div class="">
+                  <p class="lead">TradeSmart Consult Ltd  is at the  forefront championing for inclusive policies, strategic partnership and leveraging on existing networks to amplify voice to influence youth and women enterprise.</p>
+    
+                  <!--<p class="lead">We help our clients with:</p>-->
+    
+                </div>
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Policy Formulation & Strengthening</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                We develop and construct trade policies, including strengthening policies through reviews and recommendations to address existing gaps that can enable women and youth to thrive in the trade sector. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+            
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Lobbying</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd solicits regional governments to develop women and youth friendly policies that supports and increase their participation in trade. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Partnership</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd provides strategic partnership and networks with like-minded institutions to leverage on existing opportunities and technical skills that help women and youth thrive in trade. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+    
+        </section><!-- End Frequently Asked Questions Section -->
+    
+    </main><!-- End #main -->";s:5:"mtime";i:1618163309;s:6:"markup";s:2878:"<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Policy, Advocacy and Networking</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Services</li>
+          </ol>
+        </div>
+    
+      </div>
+      </section>
+    
+              <!-- ======= Frequently Asked Questions Section ======= -->
+              <section id="faq" class="faq">
+          <div class="container">
+    
+           <div class="">
+                  <p class="lead">TradeSmart Consult Ltd  is at the  forefront championing for inclusive policies, strategic partnership and leveraging on existing networks to amplify voice to influence youth and women enterprise.</p>
+    
+                  <!--<p class="lead">We help our clients with:</p>-->
+    
+                </div>
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Policy Formulation & Strengthening</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                We develop and construct trade policies, including strengthening policies through reviews and recommendations to address existing gaps that can enable women and youth to thrive in the trade sector. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+            
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Lobbying</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd solicits regional governments to develop women and youth friendly policies that supports and increase their participation in trade. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+    
+            <div class="row faq-item d-flex align-items-stretch">
+              <div class="col-lg-3">
+                <i class="fa fa-check" aria-hidden="true" style="color:gold">&nbsp;&nbsp;</i>
+                <h4>Partnership</h4>
+              </div>
+              <div class="col-lg-9">
+                <p>
+                TradeSmart Consult Ltd provides strategic partnership and networks with like-minded institutions to leverage on existing opportunities and technical skills that help women and youth thrive in trade. </p>          </div>
+            </div><!-- End F.A.Q Item-->
+    
+        </section><!-- End Frequently Asked Questions Section -->
+    
+    </main><!-- End #main -->";s:4:"code";N;s:5:"title";s:6:"Policy";s:3:"url";s:7:"/policy";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

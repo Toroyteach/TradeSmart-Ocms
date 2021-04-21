@@ -1,0 +1,330 @@
+1618821343a:1:{s:11:"experts.htm";a:10:{s:8:"fileName";s:11:"experts.htm";s:7:"content";s:11085:"title = "Experts"
+url = "/experts"
+layout = "default"
+description = "This is TradeSmart Consult Experts page"
+is_hidden = 0
+==
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Experts</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Experts</li>
+          </ol>
+        </div>
+    
+      </div>
+    </section><!-- End Breadcrumbs -->
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+          <div class="container">
+    
+            <div class="row content ">
+              <div class="col-lg-6 mx-auto">
+                <p>
+                TradeSmart Consult Ltd has a team of highly qualified and dedicated professionals with a rich diverse background.</p>
+              </div>
+            </div>
+    
+          </div>
+        </section><!-- End About Section -->
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team ">
+      <div class="container">
+    
+        <div class="row">
+    
+          <div class="col-lg-6">
+              <div class="pic d-flex justify-content-center">
+                  <img src="{{ 'assets/site/img/team/edited/clare.jpg'|theme }}" class="img-fluid" alt="">
+              </div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Clare Ronoh</h4>
+                <span>Chief Executive Officer</span>
+                <p>Claire Ronoh is a seasoned and skilled engineering professional with strong industry reputation for integrity and efficiency. 
+                She has over 10 years’ experience specializing in design, implementation and maintenance of energy installations, environmental management, and medical and industrial gases installations.
+                Claire has previously worked with Evroco General Contractors Ltd, BOC Gases Plc, Nairobi, Libya Oil Kenya Limited (Currently Ola Energy), Nairobi her latest project being with Clinton Health Access Initiative</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/clare-ronoh-76802a45/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4 mt-lg-0">
+          <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/rose.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <!-- <div class="pic"><img src="{{ asset('site/img/team/edited/rose.jpg') }}" class="img-fluid" alt=""></div> -->
+              <div class="member-info">
+                <h4>Rose Ronoh</h4>
+                <span>Advisory Board Member</span>
+                <p>Rose Ronoh is a passionate International Trade Professional with over seventeen years work experience drawn from both public and private sector in Kenya. 
+                She has worked as the Director of Trade Facilitation at Kenya Trade Agency Network (KENTRADE).
+                Her key achievement at Kentrade was implementation of the Kenya National Single Window System that has revolutionized the logistics value chain in Kenya saving the country upwards of Kshs 2.5 Billion annually. 
+                Rose possess an extensive experience in trade facilitation, trade policy, cross border trade, regional integration, ICT for trade, stakeholder engagement, change management, customer experience, marketing and communications, she is an enthusiast of the Africa Continental Free 4 Trade Area (AfCFTA) and she is currently the AfCFTA expert in Kenya. 
+                Recently she has consulted for GIZ and ACWICT in documenting success stories of cross border women traders at the borders of Namanga, Busia, Malaba and Isebania.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/rose-ronoh-13a26719/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">		 
+           <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/caro.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Carolyne Cherono</h4>
+                <span>Operations Manager</span>
+                <p>Having worked with various companies in the private sector, 
+                Caroline is an articulate human resource professional with over 10 years’ experience in HR procedures and policies: recruitment process, compensation benefits management, employee relations, talent development retention, performance management, safety and health and employment law. 
+                Caroline believes in achieving the set objectives, maximize opportunity to fully utilize and develop theoretical, organizational and practical skills that enhance mutual growth within an organization.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/carolyne-kim-gari-1573981a/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+              <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/chumba.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Mirriam Jepchumba</h4>
+                <span>Market and Communication Specialist</span>
+                <p>Jepchumba is a Corporate Communications professional skilled, creative and composed with extensive knowledge of media and communication with good knowledge and understanding of both functional and strategic aspects of communication. 
+                She has worked for entities as a Public Relations officer, Digital Communication and Marketing officer and as a Radio Presenter. Currently, Jepchumba works at TradeSmart Consult Ltd in the Capacity of a Corporate Communications Specialist where she is in-charge of the firm’s communication flows, networks and branding activities. 
+                Her greatest motivation is to endeavor through own initiative to acquire more knowledge and skills to keep up with the ever-increasing professional challenges and desire for greater challenges and opportunity to advance in the industry.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/mirriam-jepchumba-b34a59a8/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+              <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/collo2.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Collins Ngeno</h4>
+                <span>Trade Specialist</span>
+                <p>Collins started his professional career as an intern at a financial advisory company. He has experience in research and analysis of regional financial and economic systems. 
+                He has acquired a significant amount of experience in ground level trade and transactional procedures as well as high level policy formulations for trade related facilitation procedures within Kenya.
+                 He is vastly knowledgeable in trade regulations affecting the East Africa Community, COMESA region as well as the WTO and WCO.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/collins-ng-eno-534566120/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+          <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/hilda.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <!-- <div class="pic"><img src="{{ asset('site/img/team/edited/hilda.jpg') }}" class="img-fluid" alt=""></div> -->
+              <div class="member-info">
+                <h4>Hilda Malowa</h4>
+                <span>Communication for Development Specialist</span>
+                <p>Malowa is a Communication Development professional with vast knowledge and expertise in human development communication, health communication, digital media management, writing human interest stories, community development and gender equality. 
+                She has previously worked with Salaries and Renumeration Commission (SRC), Daystar University, 
+                Radio Shahidi amongst others. In more recent projects, while working with TradeSmart Consult Ltd in partnership with ACWICT she has documented human interest stories, videos of women in cross-border trade across Kenyas’ border towns of Busia, Malaba and Namanga.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/hilda-malowa-747855135/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+        </div>
+    
+      </div>
+    </section><!-- End Team Section -->
+
+    
+    </main><!-- End #main -->";s:5:"mtime";i:1618160729;s:6:"markup";s:10950:"<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Experts</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Experts</li>
+          </ol>
+        </div>
+    
+      </div>
+    </section><!-- End Breadcrumbs -->
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+          <div class="container">
+    
+            <div class="row content ">
+              <div class="col-lg-6 mx-auto">
+                <p>
+                TradeSmart Consult Ltd has a team of highly qualified and dedicated professionals with a rich diverse background.</p>
+              </div>
+            </div>
+    
+          </div>
+        </section><!-- End About Section -->
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team ">
+      <div class="container">
+    
+        <div class="row">
+    
+          <div class="col-lg-6">
+              <div class="pic d-flex justify-content-center">
+                  <img src="{{ 'assets/site/img/team/edited/clare.jpg'|theme }}" class="img-fluid" alt="">
+              </div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Clare Ronoh</h4>
+                <span>Chief Executive Officer</span>
+                <p>Claire Ronoh is a seasoned and skilled engineering professional with strong industry reputation for integrity and efficiency. 
+                She has over 10 years’ experience specializing in design, implementation and maintenance of energy installations, environmental management, and medical and industrial gases installations.
+                Claire has previously worked with Evroco General Contractors Ltd, BOC Gases Plc, Nairobi, Libya Oil Kenya Limited (Currently Ola Energy), Nairobi her latest project being with Clinton Health Access Initiative</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/clare-ronoh-76802a45/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4 mt-lg-0">
+          <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/rose.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <!-- <div class="pic"><img src="{{ asset('site/img/team/edited/rose.jpg') }}" class="img-fluid" alt=""></div> -->
+              <div class="member-info">
+                <h4>Rose Ronoh</h4>
+                <span>Advisory Board Member</span>
+                <p>Rose Ronoh is a passionate International Trade Professional with over seventeen years work experience drawn from both public and private sector in Kenya. 
+                She has worked as the Director of Trade Facilitation at Kenya Trade Agency Network (KENTRADE).
+                Her key achievement at Kentrade was implementation of the Kenya National Single Window System that has revolutionized the logistics value chain in Kenya saving the country upwards of Kshs 2.5 Billion annually. 
+                Rose possess an extensive experience in trade facilitation, trade policy, cross border trade, regional integration, ICT for trade, stakeholder engagement, change management, customer experience, marketing and communications, she is an enthusiast of the Africa Continental Free 4 Trade Area (AfCFTA) and she is currently the AfCFTA expert in Kenya. 
+                Recently she has consulted for GIZ and ACWICT in documenting success stories of cross border women traders at the borders of Namanga, Busia, Malaba and Isebania.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/rose-ronoh-13a26719/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">		 
+           <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/caro.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Carolyne Cherono</h4>
+                <span>Operations Manager</span>
+                <p>Having worked with various companies in the private sector, 
+                Caroline is an articulate human resource professional with over 10 years’ experience in HR procedures and policies: recruitment process, compensation benefits management, employee relations, talent development retention, performance management, safety and health and employment law. 
+                Caroline believes in achieving the set objectives, maximize opportunity to fully utilize and develop theoretical, organizational and practical skills that enhance mutual growth within an organization.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/carolyne-kim-gari-1573981a/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+              <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/chumba.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Mirriam Jepchumba</h4>
+                <span>Market and Communication Specialist</span>
+                <p>Jepchumba is a Corporate Communications professional skilled, creative and composed with extensive knowledge of media and communication with good knowledge and understanding of both functional and strategic aspects of communication. 
+                She has worked for entities as a Public Relations officer, Digital Communication and Marketing officer and as a Radio Presenter. Currently, Jepchumba works at TradeSmart Consult Ltd in the Capacity of a Corporate Communications Specialist where she is in-charge of the firm’s communication flows, networks and branding activities. 
+                Her greatest motivation is to endeavor through own initiative to acquire more knowledge and skills to keep up with the ever-increasing professional challenges and desire for greater challenges and opportunity to advance in the industry.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/mirriam-jepchumba-b34a59a8/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+              <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/collo2.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <div class="member-info">
+                <h4>Collins Ngeno</h4>
+                <span>Trade Specialist</span>
+                <p>Collins started his professional career as an intern at a financial advisory company. He has experience in research and analysis of regional financial and economic systems. 
+                He has acquired a significant amount of experience in ground level trade and transactional procedures as well as high level policy formulations for trade related facilitation procedures within Kenya.
+                 He is vastly knowledgeable in trade regulations affecting the East Africa Community, COMESA region as well as the WTO and WCO.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/collins-ng-eno-534566120/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-lg-6 mt-4">
+          <div class="pic d-flex justify-content-center"><img src="{{ 'assets/site/img/team/edited/hilda.jpg'|theme }}" class="img-fluid" alt=""></div>
+            <div class="member d-flex align-items-start">
+              <!-- <div class="pic"><img src="{{ asset('site/img/team/edited/hilda.jpg') }}" class="img-fluid" alt=""></div> -->
+              <div class="member-info">
+                <h4>Hilda Malowa</h4>
+                <span>Communication for Development Specialist</span>
+                <p>Malowa is a Communication Development professional with vast knowledge and expertise in human development communication, health communication, digital media management, writing human interest stories, community development and gender equality. 
+                She has previously worked with Salaries and Renumeration Commission (SRC), Daystar University, 
+                Radio Shahidi amongst others. In more recent projects, while working with TradeSmart Consult Ltd in partnership with ACWICT she has documented human interest stories, videos of women in cross-border trade across Kenyas’ border towns of Busia, Malaba and Namanga.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a> -->
+                  <a href="https://www.linkedin.com/in/hilda-malowa-747855135/"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+    
+        </div>
+    
+      </div>
+    </section><!-- End Team Section -->
+
+    
+    </main><!-- End #main -->";s:4:"code";N;s:5:"title";s:7:"Experts";s:3:"url";s:8:"/experts";s:6:"layout";s:7:"default";s:11:"description";s:39:"This is TradeSmart Consult Experts page";s:9:"is_hidden";s:1:"0";}}

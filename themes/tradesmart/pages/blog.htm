@@ -1,0 +1,22 @@
+title = "Blog"
+url = "/blog"
+layout = "default"
+description = "This is the blog page description."
+is_hidden = 0
+
+[blogPosts]
+pageNumber = "{{ :page }}"
+postsPerPage = 6
+noPostsMessage = "Sorry no posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/category"
+postPage = "blog/post"
+==
+<!-- ======= Blog Section ======= -->
+ <section id="blog" class="blog" style="padding-top: 8em;">
+    <div class="container">  
+      <div class="row">                          
+            {% component 'blogPosts' %}
+      </div>
+    </div>
+  </section><!-- End Blog Section -->

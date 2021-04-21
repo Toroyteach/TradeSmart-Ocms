@@ -1,0 +1,51 @@
+title = "gallery"
+url = "/gallery"
+layout = "default"
+is_hidden = 0
+==
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+    
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Gallery</h2>
+          <ol>
+            <li><a href="">Home</a></li>
+            <li>Gallery</li>
+          </ol>
+        </div>
+    
+      </div>
+    </section>
+    
+    
+    <div class="container" style="padding-top: 1em;">
+    <div class="section-title">
+              <h2>Gallery</h2>
+              <!-- <p>What we do</p> -->
+            </div>
+            <div class="lightbox-gallery">
+        <div class="container">
+            <div class="row photos">
+              @forelse($images as $image)
+                <div class="col-sm-6 col-md-4 col-lg-3 item">
+                  <a href="{{ asset('/images/'.$image->filename) }}" data-lightbox="photos"> 
+                    <img class="img-fluid" src="{{ asset('/images/'.$image->filename) }}">
+                  </a>
+                </div>
+              @empty
+              <div class="alert alert-danger" role="alert">
+                Seems like theres no Images to show
+              </div>
+              @endforelse
+                <!-- <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="https://res.cloudinary.com/dxfq3iotg/image/upload/v1565190718/gallery/original/03_r_car.jpg" data-lightbox="photos"><img class="img-fluid" src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1565190718/gallery/original/03_r_car.jpg"></a></div> -->
+            </div>
+        </div>
+    </div>
+            </div>
+
+        
+    </main><!-- End #main -->

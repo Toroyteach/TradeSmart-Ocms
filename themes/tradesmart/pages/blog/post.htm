@@ -1,0 +1,11 @@
+title = "Blog Post"
+url = "/blog/post/:slug"
+layout = "default"
+description = "this is the single blog post"
+is_hidden = 0
+
+[blogPost]
+slug = "{{ :slug }}"
+categoryPage = "blog/category"
+==
+{% component 'blogPost' %}

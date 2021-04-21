@@ -1,0 +1,39 @@
+1618821348a:1:{s:15:"site/sticky.htm";a:5:{s:8:"fileName";s:15:"site/sticky.htm";s:7:"content";s:1042:"<div class="sticky-container">
+    <ul class="sticky">
+        <li><a href="https://www.facebook.com/TradeSmart.co.ke">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/facebook.png'|theme }}" />
+            <p>Facebook</p></a>
+        </li>
+        <li><a href="https://twitter.com/TradesmartC">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/twitter.png'|theme }}" />
+            <p>Twitter</p>
+        </li></a>
+        <li><a href="https://www.linkedin.com/company/75159461/">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/linkedin.png'|theme }}" />
+            <p>Linkedin</p>
+        </li></a>
+        <li><a href="https://www.instagram.com/tradesmart_consultltd/?hl=en">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/instagram.png'|theme }}" />
+            <p>Instagram</p>
+        </li></a>
+    </ul>
+</div>";s:5:"mtime";i:1618152478;s:6:"markup";s:1042:"<div class="sticky-container">
+    <ul class="sticky">
+        <li><a href="https://www.facebook.com/TradeSmart.co.ke">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/facebook.png'|theme }}" />
+            <p>Facebook</p></a>
+        </li>
+        <li><a href="https://twitter.com/TradesmartC">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/twitter.png'|theme }}" />
+            <p>Twitter</p>
+        </li></a>
+        <li><a href="https://www.linkedin.com/company/75159461/">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/linkedin.png'|theme }}" />
+            <p>Linkedin</p>
+        </li></a>
+        <li><a href="https://www.instagram.com/tradesmart_consultltd/?hl=en">
+            <img width="32" height="32" title="" alt="" src="{{ 'assets/frontend/assets/img/sticky/instagram.png'|theme }}" />
+            <p>Instagram</p>
+        </li></a>
+    </ul>
+</div>";s:4:"code";N;}}
